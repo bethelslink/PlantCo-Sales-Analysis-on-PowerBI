@@ -31,6 +31,7 @@ The Power BI dashboard presents an interactive view of key performance metrics:
 
 ![Dashboard Overview](project%20dash.png)
 
+[Interact with Power BI ](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Performance%20Report.pbix)
 ### Key Visuals:
 - **Top 10 and Bottom 10 Countries**: A bar chart showing performance variations.
 - **Year-to-Date (YTD) vs. Prior Year-to-Date (PYTD)**: Comparison of sales performance over time.
@@ -59,6 +60,7 @@ The Power BI dashboard presents an interactive view of key performance metrics:
 The dashboard provides valuable insights into Plant Co.’s sales trends, country performance, and profitability segmentation. Implementing the recommendations can improve revenue and operational efficiency.
 
 ## Project Files
-- **[Excel Dataset](Plant_DTS.xlsx)** - Raw data used for analysis.
-- **[Power BI Report](Performance_Report.pbix)** - Interactive Power BI dashboard.
+[RAW Dataset (Excel File)](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Plant_DTS.xlsx)
+[Interact with Power BI ](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Performance%20Report.pbix)
+
 
