@@ -60,7 +60,7 @@ The Power BI dashboard presents an interactive view of key performance metrics:
 The dashboard provides valuable insights into Plant Co.’s sales trends, country performance, and profitability segmentation. Implementing the recommendations can improve revenue and operational efficiency.
 
 ## Project Files
-[RAW Dataset (Excel File)](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Plant_DTS.xlsx)
+[RAW Dataset (Excel File)](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Plant_DTS.xls)
 [Interact with Power BI ](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Performance%20Report.pbix)
 
 
