@@ -86,7 +86,7 @@ The United States ranked 8th with $1,129,565 in sales.
 
 ![Dashboard Overview](project%20dash.png)
 
-[Interact with Dashboard ](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Performance%20Report.pbix)
+[Interact with Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMTVhZWZhZGUtNjYyMi00MjhhLWI0OWEtNjM3ZDMyZmEwZGZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 The dashboard provides an analysis of Plant Co.'s quantity performance in 2023, comparing Year-to-Date (YTD) vs. Prior Year-to-Date (PYTD) sales trends. It includes country-wise performance, monthly trends, product type segmentation, and profitability insights.
@@ -141,6 +141,6 @@ Plant Co. experienced overall sales growth in 2023, with a stable gross profit p
 ## File Links
 
 [RAW Dataset (Excel File)](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Plant_DTS.xlsx)
-[Interact with Power BI ](https://github.com/bethelslink/PlantCo-Sales-Analysis-on-PowerBI/blob/main/Performance%20Report.pbix)
+[Interact with Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMTVhZWZhZGUtNjYyMi00MjhhLWI0OWEtNjM3ZDMyZmEwZGZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
