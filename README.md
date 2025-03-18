@@ -1,4 +1,4 @@
-# Plant Co. Sales and Profitability Analysis
+# Plant Co. Sales and Profitability Performance with PowerBI
 
 ## Table of Contents
 
